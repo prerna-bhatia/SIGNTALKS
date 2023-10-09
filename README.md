@@ -1,4 +1,4 @@
-SIGNTALKS: Convert Voice and Text to Animation for Deaf
+#SIGNTALKS: Convert Voice and Text to Animation for Deaf
 SIGNTALKS is a project aimed at converting voice and text to animations in sign language, providing a tool to facilitate communication for the deaf community.
 
 Technologies Used
