@@ -40,14 +40,14 @@ python manage.py runserver
 <font face="Arial">Screenshots</font>
 
 <p align="center">
-  <img src="Screenshots/screenshot1.png" alt="Screenshot 1" width="300" height="400"/>
+  <img src="Screenshots/screenshot1.png" alt="Screenshot 1"/>
 </p>
 <p align="center">
-  <img src="Screenshots/screenshot2.png" alt="Screenshot 2" width="300" height="400"/>
+  <img src="Screenshots/screenshot2.png" alt="Screenshot 2"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/screenshot3.png" alt="Screenshot 3" width="300" height="400" />
+  <img src="Screenshots/screenshot3.png" alt="Screenshot 3"/>
 </p>
 
 <font face="Arial">Contributing</font>
