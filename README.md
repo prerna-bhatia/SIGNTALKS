@@ -38,9 +38,18 @@ python manage.py runserver
 <font face="Arial">View the animated sign language corresponding to the input.</font>
 <font face="Arial">Engage in effective communication with the deaf community using the generated animations.</font>
 <font face="Arial">Screenshots</font>
-Screenshot 1
-Screenshot 2
-Screenshot 3
+
+<p align="center">
+  <img src="Screenshot/screenshot1.jpg" alt="Screenshot 1" width="300" height="400"/>
+</p>
+<p align="center">
+  <img src="Screenshot/screenshot2.jpg" alt="Screenshot 2" width="300" height="400"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot/screenshot3.jpg" alt="Screenshot 3" width="300" height="400" />
+</p>
+
 <font face="Arial">Contributing</font>
 <font face="Arial">Contributions to SIGNTALKS are welcome! If you have ideas for new features, enhancements, or find bugs, please open an issue or create a pull request.</font>
 
